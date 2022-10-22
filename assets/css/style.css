@@ -474,7 +474,7 @@ a:hover {
 }
 
 #header .logo a {
-  color: #fff;
+  color: #0078ff;
 }
 
 #header .logo img {
@@ -518,7 +518,7 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  color: #fff;
+  color: #0078ff;
   font-size: 16px;
   font-weight: 600;
   padding: 0;
@@ -769,7 +769,7 @@ a:hover {
 }
 
 .hero .hero-title {
-  color: #fff;
+  color: #0078ff;
   font-weight: 600;
   font-size: 3rem;
 }
@@ -783,6 +783,7 @@ a:hover {
 .hero .hero-subtitle {
   font-size: 1.5rem;
   font-weight: 600;
+  color: #0078ff;
 }
 
 @media (min-width: 768px) {
